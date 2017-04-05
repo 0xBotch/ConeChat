@@ -1,1 +1,1 @@
-A multi client and server chat room with socket.io.
+A multi client-server chat room implementation using socket.io.
